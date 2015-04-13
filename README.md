@@ -3,8 +3,8 @@
 Main E-Deposit package to run all AMQP services written in Clojure.
 
 It runs:
-- pdfbox to validate PDF
-- epubcheck to validate EPub 
+- [PDFBbox](https://pdfbox.apache.org) to validate PDF
+- [EpubCheck](https://github.com/idpf/epubcheck) to validate EPub 
 
 ## Configure
 
