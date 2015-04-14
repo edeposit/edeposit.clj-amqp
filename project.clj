@@ -1,4 +1,4 @@
-(defproject edeposit.clj-amqp "0.1.0-SNAPSHOT"
+(defproject edeposit.clj-amqp "1.0.0"
   :description "E-Deposit: Main package to run all amqp services written in clojure"
   :url "https://github.com/edeposit/edeposit.clj-amgp"
   :license {:name "Eclipse Public License"
