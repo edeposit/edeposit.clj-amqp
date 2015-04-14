@@ -13,7 +13,6 @@
                                         [ "-h" "--help" :default false :flag true]
                                         )
          ]
-    (println "ahoj")
     (when (:help options)
       (println banner)
       (System/exit 0)
