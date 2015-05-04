@@ -23,7 +23,7 @@
                  [commons-codec/commons-codec "1.10"]
                  [org.clojure/tools.logging "0.3.1"]
                  [edeposit.amqp.epubcheck "0.1.0"]
-                 [edeposit.amqp.pdfbox "0.1.0"]
+                 [edeposit.amqp.pdfbox "0.1.1"]
                  ]
   :main edeposit.clj-amqp.main
   :aot [edeposit.clj-amqp.main]
