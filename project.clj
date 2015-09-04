@@ -1,4 +1,4 @@
-(defproject edeposit.clj-amqp "1.0.0"
+(defproject edeposit.clj-amqp "1.0.1"
   :description "E-Deposit: Main package to run all amqp services written in clojure"
   :url "https://github.com/edeposit/edeposit.clj-amgp"
   :license {:name "Eclipse Public License"
@@ -23,7 +23,7 @@
                  [commons-codec/commons-codec "1.10"]
                  [org.clojure/tools.logging "0.3.1"]
                  [edeposit.amqp.epubcheck "0.1.0"]
-                 [edeposit.amqp.pdfbox "0.1.1"]
+                 [edeposit.amqp.pdfbox "0.1.2"]
                  ]
   :main edeposit.clj-amqp.main
   :aot [edeposit.clj-amqp.main]

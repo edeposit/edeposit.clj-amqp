@@ -11,6 +11,7 @@
                  (env :pdfbox-amqp-uri)
                  (env :pdfbox-amqp-exchange) 
                  (env :pdfbox-amqp-qname)
+                 (env :pdfbox-debug)
                  )
    :epubcheck-amqp (new-epubcheck-amqp
                     (env :epubcheck-amqp-uri)
